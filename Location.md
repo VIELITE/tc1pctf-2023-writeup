@@ -309,6 +309,8 @@ contract Hell_0 {
 }
 ```
 
+pretty ugly solve but "if it works, it works " - voxelbugged(captain pwnverse crew)
+
 The flag was: `TCP1P{W00t_w00t_t0_th3_p4rty_47JHbddc}`
 
 
